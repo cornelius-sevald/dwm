@@ -2,7 +2,7 @@
 
 with pkgs;
 stdenv.mkDerivation {
-  name = "dw";
+  name = "dwm";
   buildInputs = [
     xorg.libX11
     xorg.libXft
