@@ -1,5 +1,5 @@
 # dwm version
-VERSION = 6.2c0.3
+VERSION = 6.2c0.4
 
 # Customize below to fit your system
 
